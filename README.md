@@ -1,6 +1,4 @@
-# chrome-app
-
-A Chrome App by Justin "JayCode" Young showing the JayCode.org Website
+# A Chrome App by Justin "JayCode" Young showing the JayCode.org Website
 
 # How to Install the App
 
